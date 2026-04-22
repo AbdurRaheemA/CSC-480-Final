@@ -9,7 +9,7 @@ I intend on creating a classification model that can take an image of a flower a
 2. What type of classification model is best suited for this task (types of CNN models)?
 
 ### What I Learned
-*enter what conclusions I can come to after making the models
+*enter what conclusions I can come to after making the models*
 
 ### What I Made
-*enter what I could complete from deliverables
+*enter what I could complete from deliverables*
